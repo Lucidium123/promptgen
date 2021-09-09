@@ -1,0 +1,129 @@
+body {
+    background-image: url(https://cdn.discordapp.com/attachments/877905409392902224/885400436478197811/906b62f379c0f9a0614b41c53448da9212bb4dfa.png);
+  }
+  b body {
+      font-family: arial;
+      font-size: 16px;
+      color: #ffa8d1;
+      line-height: 16px;
+  }
+
+  a {
+      color: #ff57a8;
+      text-decoration: none;
+  }
+
+  a:hover {}
+
+  b,
+  strong {}
+
+  i,
+  em {}
+
+  pre {}
+
+  blockquote {}
+
+  #main {
+      width: 600px;
+      margin: auto;
+      font-size: 16px;
+  }
+
+  #person1 {
+      position: absolute;
+      border-radius: 25px;
+      border: 2px solid #6c727c;
+      margin: 250px 0px 0px 0px;
+      width: 150px;
+      padding: 5px;
+      background: #f7f7f7;
+      font-family: arial;
+      font-size: 14px;
+      color: #808080;
+      line-height: 14px;
+      font-style: oblique;
+      text-align: center;
+  }
+
+  #person2 {
+      position: absolute;
+      border-radius: 25px;
+      border: 2px solid #6c727c;
+      margin: 250px 0px 0px 200px;
+      width: 150px;
+      padding: 5px;
+      background: #f7f7f7;
+      font-family: arial;
+      font-size: 14px;
+      color: #808080;
+      line-height: 14px;
+      font-style: oblique;
+      text-align: center;
+  }
+
+  #genbutt {
+      font-family: Arial, Helvetica, sans-serif;
+      position: absolute;
+      border-radius: 25px;
+      border: 2px solid #6c727c;
+      margin: 250px 0px 0px 500px;
+      width: 120px;
+      padding: 5px 5px 5px 5px;
+      background: #fff;
+      cursor: pointer;
+      text-align: center;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+  }
+
+  #genbutt:hover {
+      margin: 251px 0px 0px 501px;
+      background: #DC143C;
+  }
+
+  #shitbox {
+      font-family: Bookman, URW Bookman L, serif; 
+      position: absolute;
+      border-radius: 25px;
+      border: 2px solid #6c727c;
+      padding: 20px;
+      background: #fff;
+      margin: 300px 0px 300px 0px;
+      width: 590px;
+      font-size: 16px;
+  }
+
+  #premise {
+    font-size: 16px;
+    font-family: Bookman, URW Bookman L, serif; 
+    letter-spacing: 0.05em;
+    word-spacing: 0.015em;
+    line-height: 150%;
+  }        
+  
+  #swapbutt { 
+    font-family: Arial, Helvetica, sans-serif; 
+    position: absolute; 
+    border-radius: 25px; 
+    border: 2px solid #6c727c; 
+    margin: 200px 0px 0px 100px; 
+    width: 175px; 
+    padding: 5px 5px 5px 5px; 
+    background: #fff; 
+    cursor: pointer; 
+    text-align: center; 
+    -webkit-user-select: none; 
+    -moz-user-select: none; 
+    -ms-user-select: none; 
+    user-select: none; 
+  
+  }
+  
+  #swapbutt:hover { margin: 601px Opx Opx 601px; background: #e0ee67; 
+  }
+
+  
