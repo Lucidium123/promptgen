@@ -13,6 +13,12 @@ body {
       text-decoration: none;
   }
 
+  bark {
+      font-family: arial;
+      align-content: center;
+      color: aquamarine;
+  }
+
   a:hover {}
 
   b,
