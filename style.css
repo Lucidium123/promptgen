@@ -23,6 +23,7 @@ body {
     font-family: arial;
     align-content: center;
     color: aquamarine;
+    text-align: center;
   }
 
   a:hover {}
